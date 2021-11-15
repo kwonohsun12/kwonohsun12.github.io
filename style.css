@@ -245,13 +245,19 @@ p {
 }
 
 .job {
-  display: block;
+  display: flex;
   align-items: center;
+  justify-content: center;
 }
 
+.job__logo {
+  height: 54px;
+  width: 230px;
+}
 .job__description {
-  margin: 0;
-  text-align: center;
+  margin: 0 16px;
+  text-align: left;
+  width: 450px;
 }
 
 .job__name,
