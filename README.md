@@ -1,4 +1,4 @@
-# 🙌 Thank you for visiting my website!
+# 🗽 Thank you for visiting my website!
 
 
 안녕하세요! 해당 사이트는 제 소개를 담은 홈페이지입니다!
@@ -26,7 +26,7 @@ Navbar 를 클릭해서 각 section 으로 이동 가능합니다.
 
 ## Home
 
-홈페이지의 메인입니다. Logo가 회전하면 제 사진이 뜹니다.😎
+홈페이지의 메인입니다. 배경에 효과가 있습니다.😎
 ContactMe 버튼을 통해 해당 section으로 이동합니다.
 
 ## About
@@ -37,21 +37,19 @@ ContactMe 버튼을 통해 해당 section으로 이동합니다.
 ## Skills
 
 제 Skill에 관한 section 입니다.
-해당 section 에 도작하면 게이지 바가 올라갑니다.
 
 ## MyWork
 
-제 프로젝트로 이동할 수 있는 링크들을 모아놓은 section 입니다.
-(back-end는 아직 없습니다!)
+제 프로젝트로 이동할 수 있는 깃헙 링크들을 모아놓은 section 입니다.
 
 ## Testimonials
 
-언젠가 받아보고 싶은 추천글 section 입니다!😂
+앞으로 많은 추천글이 채워질 section 입니다!😂
 
 ## Contact Me
 
 제 Github 링크, 그리고 이메일 주소가 있습니다.
-My email : 
+My email : kwonohsun12@naver.com
 
 ------
 
