@@ -45,7 +45,7 @@ Navbar 를 클릭해서 각 section 으로 이동 가능합니다.
 
 ## Contact Me
 
-제 [Github](https://kwonohsun12.github.io/), [블로그](https://kwonohsun12.tistory.com/) 그리고 이메일 주소가 있습니다.
+제 [Github](https://github.com/kwonohsun12), [블로그](https://kwonohsun12.tistory.com/) 그리고 이메일 주소가 있습니다.
 My email : kwonohsun12@naver.com
 
 ------
