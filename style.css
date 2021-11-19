@@ -20,6 +20,7 @@
   --color-back2: #234464;
 
   /* Font size */
+  --font-slarge: 60px;
   --font-large: 48px;
   --font-medium: 28px;
   --font-regular: 18px;
@@ -501,12 +502,12 @@ p {
 }
 
 .contact__links {
-  font-size: var(--font-large);
+  font-size: var(--font-slarge);
   margin: 24px 0;
 }
 
 .contact__links i:hover {
-  transform: scale(1.1);
+  transform: scale(1.3);
   color: var(--color-text1);
   transition: var(--animation-duration) ease-in;
 }
