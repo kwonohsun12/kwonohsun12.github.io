@@ -35,9 +35,11 @@ Navbar 를 클릭해서 각 section 으로 이동 가능합니다.
 
 제 Skill에 관한 section 입니다.
 
+Skill 하단의 퍼센테이지로 기술 역량을 확인 및 비교할 수 있습니다.
+
 ## MyWork
 
-제 프로젝트와 블로그 글로 이동할 수 있는 깃헙 링크들을 모아놓은 section 입니다.
+제 프로젝트와 블로그 글로 이동할 수 있는 링크들을 모아놓은 section 입니다.
 
 ## Testimonials
 
@@ -45,8 +47,9 @@ Navbar 를 클릭해서 각 section 으로 이동 가능합니다.
 
 ## Contact Me
 
-제 [Github](https://github.com/kwonohsun12), [블로그](https://kwonohsun12.tistory.com/) 그리고 이메일 주소가 있습니다.
-My email : kwonohsun12@naver.com
+이메일을 확인할 수 있습니다.
+
+추가로 이메일 하단에 깃헙, 블로그, TIL, 웹사이트 링크도 확인할 수 있습니다.
 
 ------
 
