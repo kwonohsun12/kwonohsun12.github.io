@@ -628,3 +628,14 @@ p {
     bottom: 16px;
   }
 }
+
+::-webkit-scrollbar {
+  width: 10px; /*스크롤바의 너비*/
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-image: linear-gradient(180deg, #d0368a 0%, #708ad4 99%);
+}
+::-webkit-scrollbar-track {
+  background-color: var(--color-back1); /*스크롤바 트랙 색상*/
+}
