@@ -10,12 +10,12 @@
 ### 사용된 언어
 
 - JavaScript
+
 - HTML
+
 - CSS
 
-### 사용된 라이브러리
-
-- Scroll Magic
+  
 
 ------
 
