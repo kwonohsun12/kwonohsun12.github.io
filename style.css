@@ -438,10 +438,25 @@ p {
   background-color: var(--color-dark-white);
 }
 
+/* Prize */
+
+#prize {
+  background-color: var(--color-text2);
+}
+
+.prize__picture {
+  width: 450px;
+  height: auto;
+}
+.prize__picture:hover {
+  transform: scale(1.4);
+  transition: 0.5s;
+}
+
 /* Testimonial */
 
 #testimonials {
-  background-color: var(--color-text2);
+  background-color: var();
 }
 
 .testimonials {
@@ -469,16 +484,17 @@ p {
 
 .testimonial__speech-bubble {
   padding: 18px;
-  background-color: var(--color-white);
+  background-color: var(--color-);
   border-radius: var(--size-border-radius);
+  border: 5px dashed var(--color-text1);
 }
 
 .testimonial__speech-bubble p {
-  color: var(--color-dark-grey);
+  color: var(--color-black);
 }
 
 .testimonial__speech-bubble a {
-  color: var(--color-text1);
+  color: var(--color-black);
   font-weight: var(--weight-bold);
 }
 
